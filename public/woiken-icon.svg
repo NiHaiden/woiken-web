@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Woiken Icon</title>
+  <desc id="desc">A minimalist dark rounded-square icon with a cloud outline and stylized W center mark.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="64" y1="64" x2="448" y2="448" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141412"/>
+      <stop offset="1" stop-color="#0A0A09"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="152" y1="156" x2="360" y2="356" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#CFCFCB"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="url(#bg)"/>
+
+  <path d="M161 318C131.7 318 108 294.3 108 265C108 240.5 124.7 219.8 147.3 213.7C152.8 170.8 189.4 138 234 138C266.6 138 295.2 155.3 311.2 181.3C316 180.1 321 179.5 326 179.5C361.6 179.5 390.5 208.4 390.5 244C390.5 279.6 361.6 308.5 326 308.5H161Z" stroke="url(#accent)" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M183 230L214 306L256 230L298 306L329 230" stroke="url(#accent)" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

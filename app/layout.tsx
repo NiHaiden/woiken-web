@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Woiken",
   description: "Woiken coming soon",
+  icons: {
+    icon: "/woiken-icon.svg",
+  },
 };
 
 export default function RootLayout({
