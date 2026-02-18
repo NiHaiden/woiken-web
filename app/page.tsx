@@ -23,7 +23,6 @@ export default function Home() {
             A cloud platform who developers who want to ship. Ship fast and ship
             clean.
           </h1>
-          <p className="mt-6 text-lg text-white/75">Built for teams that move fast.</p>
         </section>
       </motion.main>
     </div>
