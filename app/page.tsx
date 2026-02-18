@@ -20,8 +20,7 @@ export default function Home() {
             Coming soon
           </p>
           <h1 className="text-4xl font-medium leading-tight tracking-tight md:text-6xl">
-            A cloud platform who developers who want to ship. Ship fast and ship
-            clean.
+            The european cloud platform for people who want to ship fast.
           </h1>
         </section>
       </motion.main>
